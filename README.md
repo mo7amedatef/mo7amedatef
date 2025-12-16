@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm **Mohamed Atef**
 
-**AI Engineer | Generative AI & Machine Learning Specialist | RAG Systems & AI Agents Developer**
+**AI Engineer | Generative AI & Machine Learning | RAG Systems & AI Agents Developer**
 
 I build end-to-end intelligent systems powered by Generative AI, Machine Learning, and scalable automation architectures.  
 My work focuses on transforming data and LLMs into production-ready applications with real-world impact.
